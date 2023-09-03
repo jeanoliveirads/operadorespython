@@ -4,48 +4,42 @@ Operadores Aritméticos:
 python
 Copy code
 # Adição
-resultado = 5 + 3  # resultado será igual a 8
+5 + 3  # resultado será igual a 8
 
 # Multiplicação
-produto = 4 * 6  # produto será igual a 24
+4 * 6  # produto será igual a 24
 
 # Divisão
-quociente = 10 / 2  # quociente será igual a 5.0 (resultado é um float)
+10 / 2  # quociente será igual a 5.0 (resultado é um float)
 
 # Módulo (resto da divisão)
-resto = 10 % 3  # resto será igual a 1
+10 % 3  # resto será igual a 1
 
 # Exponenciação
-potencia = 2 ** 3  # potencia será igual a 8
+2 ** 3  # potencia será igual a 8
 
 # Divisão inteira
-divisao_inteira = 15 // 2  # divisao_inteira será igual a 7
-Operadores de Comparação:
-python
-Copy code
-x = 5
-y = 10
+15 // 2  # será igual a 7
 
+Operadores de Comparação:
 # Igual a
-igual = x == y  # igual será False
+x == y  # igual será False
 
 # Diferente de
-diferente = x != y  # diferente será True
+x != y  # diferente será True
 
 # Menor que
-menor = x < y  # menor será True
+x < y  # menor será True
 
 # Maior que
-maior = x > y  # maior será False
+x > y  # maior será False
 
 # Menor ou igual a
-menor_igual = x <= y  # menor_igual será True
+x <= y  # menor_igual será True
 
 # Maior ou igual a
 maior_igual = x >= y  # maior_igual será False
 Operadores Lógicos:
-python
-Copy code
 a = True
 b = False
 
@@ -58,8 +52,6 @@ resultado_or = a or b  # resultado_or será True
 # NÃO lógico (not)
 resultado_not = not a  # resultado_not será False
 Operadores de Atribuição:
-python
-Copy code
 x = 5
 
 # Soma e atribuição
@@ -80,8 +72,6 @@ x **= 2  # x será igual a 1.0
 # Divisão inteira e atribuição
 x //= 2  # x será igual a 0.0
 Operadores de Associação (Membership):
-python
-Copy code
 lista = [1, 2, 3, 4, 5]
 
 # Está presente na sequência (in)
