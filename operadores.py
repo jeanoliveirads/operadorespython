@@ -1,3 +1,6 @@
+"""
+Operadores
+"""
 +   # Adição
 -   # Subtração
 *   # Multiplicação
@@ -12,27 +15,26 @@
 <=   # Menor ou igual a
 >=   # Maior ou igual a
 
+"""
 Operadores Lógicos:
 Esses operadores realizam operações lógicas em valores booleanos.
+"""
 
-python
-Copy code
-and  # E lógico
-or   # OU lógico
-not  # NÃO lógico
+and  #E
+or   #OU
+not  #NÃO
 
+"""
 Operadores de Identidade:
 Esses operadores são usados para comparar objetos quanto à identidade.
+"""
+is    #É o mesmo objeto
+is not  #Não é o mesmo objeto
 
-python
-Copy code
-is    # É o mesmo objeto
-is not  # Não é o mesmo objeto
-
+"""
 Operadores de Associação (Membership):
 Esses operadores verificam se um valor está presente em uma sequência (como lista, tupla, conjunto, etc.).
+"""
 
-python
-Copy code
-in    # Está presente na sequência
-not in  # Não está presente na sequência
+in    #Está presente na sequência
+not in  #Não está presente na sequência
