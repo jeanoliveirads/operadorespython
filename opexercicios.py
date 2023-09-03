@@ -1,10 +1,7 @@
 """
 Vamos ver alguns exemplos práticos de como usar os operadores em Python:
 """
-
-Operadores Aritméticos:
-python
-Copy code
+#Operadores Aritméticos:
 # Adição
 5 + 3  # resultado será igual a 8
 
@@ -23,7 +20,7 @@ Copy code
 # Divisão inteira
 15 // 2  # será igual a 7
 
-Operadores de Comparação:
+#Operadores de Comparação:
 # Igual a
 x == y  # igual será False
 
@@ -41,7 +38,8 @@ x <= y  # menor_igual será True
 
 # Maior ou igual a
 maior_igual = x >= y  # maior_igual será False
-Operadores Lógicos:
+
+#Operadores Lógicos:
 a = True
 b = False
 
@@ -53,6 +51,7 @@ resultado_or = a or b  # resultado_or será True
 
 # NÃO lógico (not)
 resultado_not = not a  # resultado_not será False
+
 Operadores de Atribuição:
 x = 5
 
@@ -73,7 +72,8 @@ x **= 2  # x será igual a 1.0
 
 # Divisão inteira e atribuição
 x //= 2  # x será igual a 0.0
-Operadores de Associação (Membership):
+
+#Operadores de Associação (Membership):
 lista = [1, 2, 3, 4, 5]
 
 # Está presente na sequência (in)
