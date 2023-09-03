@@ -1,4 +1,4 @@
-amos ver alguns exemplos práticos de como usar os operadores em Python:
+Vamos ver alguns exemplos práticos de como usar os operadores em Python:
 
 Operadores Aritméticos:
 python
